@@ -5,7 +5,7 @@ const AddInfo = () => {
         <div >
             <h5 >ADDITIONAL INFORMATION</h5>
             <ul>
-                <li><strong>Technical Skills:</strong> HTML, CSS, TailwindCSS, Bootstrap, JavaScript, ReactJS, Redux, NodeJs,
+                <li><strong>Technical Skills:</strong> HTML, CSS, Bootstrap, JavaScript, ReactJS, Redux, NodeJs,
 ExpressJs, MongoDB, MySQL</li>
                 <li><strong>Soft Skills:</strong> Communication, Problem-Solving, Collaboration and teamwork, Continuous
 learning mindset</li>
