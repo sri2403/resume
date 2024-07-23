@@ -4,7 +4,7 @@ const WorkExp = () => {
     return (
         <div>
             <h5 >WORK EXPERIENCE</h5>
-            <h6>GUVI Geek Networks, IITM Research Park june 2024 - Present</h6>
+            <h6>GUVI Geek Networks, IITM Research Park -june 2024</h6>
             <ul>
                 <li>I have been learning MERN stack for the past 5 months</li>
                 <li>I have successfully completed some mini projects including <strong>Login and Registration Authentication System with Password reset,  Redux-based Shopping Cart,  To-do Application, Calculator and Weather API</strong>, with all featuring responsive web design for both
