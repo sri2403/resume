@@ -1,0 +1,15 @@
+.user-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.details {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.profile-img {
+    height: 150px;
+    width: 150px;
+}
